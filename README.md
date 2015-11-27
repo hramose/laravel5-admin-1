@@ -32,6 +32,7 @@ composer install
 ###Step 3
 
 Copy .env.example file as .env
+
 Configure database settings in .env file.
 
 ###Step 4
